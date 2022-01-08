@@ -7,7 +7,7 @@ layout: home
 
 # PUBG Guide
 
-i play this game too much so i some guides: one for if you're starting out and others for everything else i know
+i play this game too much so i wrote some guides: one for if you're starting out and others for everything else i know
 
 ## [starter guide](starter.md)
 - Game Modes
