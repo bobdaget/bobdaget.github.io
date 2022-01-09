@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# PUBG Guide
 
 i play this game too much so i wrote some guides: one for if you're starting out and others for everything else i know
 
