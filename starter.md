@@ -1,3 +1,4 @@
+
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -5,6 +6,15 @@
 layout: home
 ---
 
+# Content
+- [Game modes](#game-modes)
+- [Maps](#maps)
+- [PUBG basics](#pubg-basics)
+	- [What happens in a typical game of PUBG?](#what-happens-in-a-typical-game-of-pubg)
+	- [Where should I drop?](#where-should-i-drop)
+	- [What loot do I need?](#what-loot-do-i-need)
+	- [Anything I should know before I head off to go die?](#anything-i-should-know-before-i-head-off-to-go-die)
+- [Must-have settings and keybinds](#must-have-settings-and-keybinds)
 
 
 # Game Modes
@@ -36,7 +46,7 @@ layout: home
  - 8v8, variety of fixed maps, good for warming up
 
 
-
+[_back to contents_](#contents)
 
 # Maps
 ## Big Maps
@@ -96,7 +106,9 @@ The second newest map before Taego. This map was pretty universally disliked by 
 For some reason Vikendi, Paramo, and Karakin have been on a rotation the last few months where you can only play one or two of them throughout an entire patch.
 
 
-# PUBG Basics
+[_back to contents_](#contents)
+
+# PUBG basics
 ## What happens in a typical game of PUBG?
  - Jump out of a plane with 63/99 other players
  - Pick a landing spot with your team
@@ -157,3 +169,45 @@ For some reason Vikendi, Paramo, and Karakin have been on a rotation the last fe
  - The killfeed can inform you about how fights around you are going
  - Communicate with your team about what's happening and where enemies are
  - Be aware of where you are and whether you have a way out if you start getting shot at
+
+
+[_back to contents_](#contents)
+
+# Must-have settings and keybinds
+
+Below I've listed a few of the options which are beneficial to use from the start in PUBG from the [settings page](settings.md), you can view the rest in the settings page by CTRL+F'ing ★.
+
+|Setting Type | Setting| Value | Comment |
+|--|--|--|--|
+|Audio - Sound| HRTF| Enable| better 3d audio positioning
+|Key bindings - Common| Jump/Vault | Unbind this | Having this on the same key will get you killed because you'll jump when you mean to vault and vice versa.
+|Key bindings - Common| Jump |Space generally |
+|Key bindings - Common| Vault | V generally | up to you, I think this is the default _change perspective_ key bind so if you play TPP you'll want to adjust that
+|Key bindings - Combat| Aim / ADS |Unbind this | Having aim / ads on the same key causes your ADS to take longer because the game has to register if you're going to hold or not.
+|Key bindings - Combat| Aim |Typically a mouse button |
+|Key bindings - Combat| ADS |Right click |
+|Key bindings - UI|Quick marker|Mouse 1 and another key|This on M1 makes it so when you shoot, you indicate on the compass where you are shooting via the color ping. The other key allows you to do the same without shooting. |
+|Gameplay - Functionalities|Auto reload|Disable||
+|Gameplay - Functionalities|Auto queueing|Enable|This isn't in the game yet, but I think it will be here|
+
+- Default firing mode settings
+	- PUBG used to not have this. you'd have to pick up a gun and change the firing mode in addition to loading it to be able to use it in full auto. This was terrible when you were in a rush. Below are my recommended settings:
+
+|Gun | Setting | Comment |
+|--|--|--|
+| Handguns | Automatic|
+| SMGs| Automatic|
+| Secondary SMGs | Burst| doesn't matter this applies to no guns in the game
+| ARs | Automatic|
+| Secondary ARs | ? | I prefer single tapping with the M16 and Mutant. Up to you
+| DMRs | Single| the MK14 is the only DMR with automatic and generally you only want that in certain situations.
+
+- Auto-attachment settings
+	- PUBG introduced these features to make picking up and dealing with attachments better. They improved quality of life greatly, especially when swapping weapons.
+	- Recommended settings:
+		- Auto equip attachments with interaction key - Enable
+		- Auto replace attachments - Enable
+		- Auto equip attachments from inventory - Enable
+
+
+[_back to contents_](#contents)
