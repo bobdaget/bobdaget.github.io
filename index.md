@@ -10,14 +10,6 @@ layout: home
 i play this game too much so i wrote some guides: one for if you're starting out and others for everything else i know
 
 
-- Game Modes
-- Maps
-- PUBG Basics
-	- What happens in a typical game of PUBG?
-	- Where should I drop?
-	- What loot do I need?
-	- Anything I should know before I head off to go die?
-
 ## [starter guide](starter.md)
 - [Game modes](starter.md#game-modes)
 - [Maps](starter.md#maps)
