@@ -12,6 +12,7 @@ layout: home
 	- [What happens in a typical game of PUBG?](#what-happens-in-a-typical-game-of-pubg)
 	- [Where should I drop?](#where-should-i-drop)
 	- [What loot do I need?](#what-loot-do-i-need)
+	- [How do I heal?](#how-do-i-heal)
 	- [Anything I should know before I head off to go die?](#anything-i-should-know-before-i-head-off-to-go-die)
 - [Must-have settings and keybinds](#must-have-settings-and-keybinds)
 
@@ -161,8 +162,41 @@ For some reason Vikendi, Paramo, and Karakin have been on a rotation the last fe
  - Half grip is between
  - Lightweight grip is for tapping (SKS, MK12, or sniping with an AR)
  - Thumb grip increases ADS speed with slight recoil reduction (great for the SKS or MK12 as bigger scopes have slower ADS speed)
+ 
+## How do I heal?
+
+PUBG's healing system is fairly simple, especially compared to something like tarkov.
+
+### Knocks
+
+If your health goes to 0 and you have a teammate, or self-revive kit, you get knocked.
+
+When knocked your health will refill to max and start ticking down.
+
+Each time you get knocked, your health starts ticking down faster.
+
+### Healing Items
+
+Healing items raise your health, generally to ~75% (except for medkits). Boosts give you a heal buff that slowly heals you and increases runspeed. The more boosted you are the faster you run / heal over time.
+
+ - Healing items
+	- Medkits - heal to full in 10 seconds
+	- First aid kits - heal to 75% up to a max of 75% in 6 seconds
+	- Bandages - heal ~10% up to a max of 75% every 2 seconds
+ - Boosts
+	- Energy drink - ~30% boost. 1 first aid + 1 energy will get you to 100% if you take no damage.
+	- Pain killers - ~60% boost
+	- Adrenaline shot - 100% boost
+ - Other items
+	- Self-revive kit - allows you to res yourself over 10 seconds
+	- Critical response kit - paramo only, allows you to revive someone in like 2 seconds
+
+There's some medic class kit that you can pick up in the new patch but I don't have the details, check the patch notes. 
+	
+
 
 ## Anything I should know before I head off to go die?
+
  - Sound is very important: footsteps, gun shots, vehicles
  - I think the default audio in this game sucks and use a compressor (dolby digital plus or voicemeeter banana), see what works for you.
  - The killfeed can inform you about how fights around you are going
