@@ -1,6 +1,8 @@
-- title: Home
+- title: home
   url: /index.html
-- title: Starter
+- title: starter guide
   url: /starter.html
-- title: Settings
+- title: settings guide
   url: /settings.html
+- title: resources
+  url: /resources.html

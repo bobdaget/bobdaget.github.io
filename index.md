@@ -46,3 +46,11 @@ i play this game too much so i wrote some guides: one for if you're starting out
 	- [Replay](settings.md#replay)
 	- [Network](settings.md#network)
 
+## [pubg resources](resources.md)
+- [Starter guides](resources.md#starter-video-guides)
+- [Weapons and attachments](resources.md#weapons-and-attachments)
+- [Random tips](resources.md#random-tips)
+- [Settings](resources.md#settings)
+- [Strategy](resources.md#strategy)
+- [Movement](resources.md#movement)
+- [Sounds](resources.md#sounds)
