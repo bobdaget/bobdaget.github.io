@@ -9,7 +9,7 @@ layout: home
 
 - [Useful links](#useful-links)
 - [Useful images](#useful-images)
-- [Starter guides](#starter-video-guides)
+- [Starter guides](#starter-guides)
 - [Weapons and attachments](#weapons-and-attachments)
 - [Random tips](#random-tips)
 - [Settings](#settings)
