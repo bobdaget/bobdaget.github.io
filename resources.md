@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Content
+# Contents
 
 - [Useful links](#useful-links)
 - [Useful images](#useful-images)
