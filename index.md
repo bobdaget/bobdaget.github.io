@@ -47,6 +47,8 @@ i play this game too much so i wrote some guides: one for if you're starting out
 	- [Network](settings.md#network)
 
 ## [pubg resources](resources.md)
+- [Useful links](resources.md#useful-links)
+- [Useful images](resources.md#useful-images)
 - [Starter guides](resources.md#starter-video-guides)
 - [Weapons and attachments](resources.md#weapons-and-attachments)
 - [Random tips](resources.md#random-tips)

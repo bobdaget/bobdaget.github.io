@@ -181,8 +181,8 @@ Healing items raise your health, generally to ~75% (except for medkits). Boosts 
 
  - Healing items
 	- Medkits - heal to full in 10 seconds
-	- First aid kits - heal to 75% up to a max of 75% in 6 seconds
-	- Bandages - heal ~10% up to a max of 75% every 2 seconds
+	- First aid kits - heals 75% up to a max of 75% in 6 seconds
+	- Bandages - heals ~10% up to a max of 75% every 2 seconds
  - Boosts
 	- Energy drink - ~30% boost. 1 first aid + 1 energy will get you to 100% if you take no damage.
 	- Pain killers - ~60% boost
