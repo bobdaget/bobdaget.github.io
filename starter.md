@@ -221,7 +221,7 @@ Below I've listed a few of the options which are beneficial to use from the star
 |Key bindings - Combat| ADS |Right click |
 |Key bindings - UI|Quick marker|Mouse 1 and another key|This on M1 makes it so when you shoot, you indicate on the compass where you are shooting via the color ping. The other key allows you to do the same without shooting. |
 |Gameplay - Functionalities|Auto reload|Disable||
-|Gameplay - Functionalities|Auto queueing|Enable|This isn't in the game yet, but I think it will be here|
+|Gameplay - Functionalities|Additional action queueing|Enable||
 
 - Default firing mode settings
 	- PUBG used to not have this. you'd have to pick up a gun and change the firing mode in addition to loading it to be able to use it in full auto. This was terrible when you were in a rush. Below are my recommended settings:
