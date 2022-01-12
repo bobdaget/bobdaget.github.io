@@ -219,7 +219,8 @@ Random features and settings that PUBG added, some affect performance some are q
 	- If enabled you will see control tips on the screen. Generally everyone disables but if you're just starting could be useful.
 
 ### Functionalities
-
+- **★ Additional Action Queueing**
+	- **Enable!!!! Action queueing is good.**
 - **★ Auto reload**
 	- **Disable, bad**
 - **★ Default firing mode settings**
