@@ -15,6 +15,7 @@ i play this game too much so i wrote some guides: one for if you're starting out
 - [PUBG basics](starter.md#pubg-basics)
 	- [What happens in a typical game of PUBG?](starter.md#what-happens-in-a-typical-game-of-pubg)
 	- [Where should I drop?](starter.md#where-should-i-drop)
+	- [How do I parachute?](starter.md#how-do-i-parachute)
 	- [What loot do I need?](starter.md#what-loot-do-i-need)
 	- [How do I heal?](starter.md#how-do-i-heal)
 	- [Anything I should know before I head off to go die?](starter.md#anything-i-should-know-before-i-head-off-to-go-die)

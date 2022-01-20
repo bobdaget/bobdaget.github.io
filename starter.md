@@ -11,6 +11,7 @@ layout: home
 - [PUBG basics](#pubg-basics)
 	- [What happens in a typical game of PUBG?](#what-happens-in-a-typical-game-of-pubg)
 	- [Where should I drop?](#where-should-i-drop)
+	- [How do I parachute?](#how-do-i-parachute)
 	- [What loot do I need?](#what-loot-do-i-need)
 	- [How do I heal?](#how-do-i-heal)
 	- [Anything I should know before I head off to go die?](#anything-i-should-know-before-i-head-off-to-go-die)
@@ -123,6 +124,23 @@ For some reason Vikendi, Paramo, and Karakin have been on a rotation the last fe
  - Middle of the map or close to the flight path will be hotter.
  - Generally further / smaller locations will be colder.
  - You may try to drop quiet places in the start, but remember the more you fight the better you'll get at it
+ 
+## How do I parachute?
+ - Drop x meters from your target, based on map
+	- Sanhok: 1200 meters
+	- Vikendi: 1000-1050 meters
+	- Erangel / Miramar / Taego: 900-950 meters
+	- Paramo / Karakin: 250 meters
+	- If you cannot get this close from the flight path, drop when you're perpendicular with where you are going
+ - Fly horizontal
+ - Go straight down around 160-170 meters from your target
+	- Paramo / Karakin: 200 meters from your target
+	- If you dropped too early, you generally can get max speed at 460m of elevation which allows you to land the quickest
+
+Sources: 
+[https://www.youtube.com/watch?v=AEZL69v2SNI](PUBG Guide - How to Parachute and Land PlayerUnknown's Battlegrounds)
+[https://www.youtube.com/watch?v=yqc1p4d2b7M](HOW TO LAND FIRST - On ALL Maps - Easy method - PUBG)
+
 
 ## What loot do I need?
 ### Guns
