@@ -138,8 +138,8 @@ For some reason Vikendi, Paramo, and Karakin have been on a rotation the last fe
 	- If you dropped too early, you generally can get max speed at 460m of elevation which allows you to land the quickest
 
 Sources: 
-[https://www.youtube.com/watch?v=AEZL69v2SNI](PUBG Guide - How to Parachute and Land PlayerUnknown's Battlegrounds)
-[https://www.youtube.com/watch?v=yqc1p4d2b7M](HOW TO LAND FIRST - On ALL Maps - Easy method - PUBG)
+[https://www.youtube.com/watch?v=AEZL69v2SNI](https://www.youtube.com/watch?v=AEZL69v2SNI)
+[https://www.youtube.com/watch?v=yqc1p4d2b7M](https://www.youtube.com/watch?v=yqc1p4d2b7M)
 
 
 ## What loot do I need?
